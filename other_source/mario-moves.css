@@ -1,0 +1,35 @@
+.reverse{
+  -webkit-transform : scale( -1, 1);
+}
+.stand     { background: url('./images/stand.gif');     }
+.lv2.stand { background: url('./images/lv2_stand.png'); }
+
+.squat     { background: url('./images/stand.gif');     }
+.lv2.squat { background: url('./images/lv2_squat.png'); }
+
+.jump      { background: url('./images/jump.png');      }
+.lv2.jump  { background: url('./images/lv2_jump.png');  }
+
+.fall      { background: url('./images/fall.png');      }
+.lv2.fall  { background: url('./images/lv2_fall.png');  }
+
+.walk1     { background: url('./images/walk1.png');     }
+.lv2.walk1 { background: url('./images/lv2_walk1.png'); }
+
+.walk2     { background: url('./images/walk2.png');     }
+.lv2.walk2 { background: url('./images/lv2_walk2.png'); }
+
+.walk3     { background: url('./images/walk3.png');     }
+.lv2.walk3 { background: url('./images/lv2_walk3.png'); }
+
+.walk4     { background: url('./images/walk2.png');     }
+.lv2.walk4 { background: url('./images/lv2_walk2.png'); }
+
+.mushroom.walk1 { background: url('./images/mushroom_walk1.png'); }
+.mushroom.walk2 { background: url('./images/mushroom_walk2.png'); }
+
+.mushroom.fall  { background: url('./images/mushroom_walk2.png'); }
+
+.dead      { background: url('./images/dead.png');      }
+
+.mushroom.dead  { background: url('./images/mushroom_dead.png');  }

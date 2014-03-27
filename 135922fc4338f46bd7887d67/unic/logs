@@ -1,0 +1,526 @@
+less 999 16 112-24.gif 416-24.gif
+tolerance 16 16 32-216.gif 416-24.gif
+less 999 15 224-200.gif 256-200.gif
+tolerance 15 8 32-216.gif 256-200.gif
+less 999 77 2880-200.gif 2416-200.gif
+tolerance 77 2 32-216.gif 2416-200.gif
+less 999 67 1216-168.gif 576-136.gif
+tolerance 67 11 64-152.gif 576-136.gif
+less 999 19 32-216.gif 0-216.gif
+tolerance 19 17 64-152.gif 0-216.gif
+less 999 1 3440-152.gif 3424-152.gif
+tolerance 1 7 64-152.gif 3424-152.gif
+less 999 43 224-200.gif 128-200.gif
+tolerance 43 8 64-152.gif 128-200.gif
+less 999 77 2880-200.gif 1056-200.gif
+tolerance 77 2 64-152.gif 1056-200.gif
+less 999 13 32-216.gif 48-216.gif
+tolerance 13 17 3440-168.gif 48-216.gif
+less 999 35 224-200.gif 384-200.gif
+tolerance 35 8 1232-72.gif 384-200.gif
+less 999 19 160-0.gif 144-0.gif
+tolerance 19 4 1232-72.gif 144-0.gif
+less 999 45 1216-168.gif 448-168.gif
+tolerance 45 11 2400-184.gif 448-168.gif
+less 999 10 32-216.gif 256-216.gif
+tolerance 10 17 2256-184.gif 256-216.gif
+less 999 77 2880-200.gif 16-200.gif
+tolerance 77 2 2256-184.gif 16-200.gif
+less 999 90 2880-200.gif 1024-200.gif
+tolerance 90 2 2256-184.gif 1024-200.gif
+less 999 10 32-216.gif 112-216.gif
+tolerance 10 17 2256-184.gif 112-216.gif
+less 999 77 2880-200.gif 1312-200.gif
+tolerance 77 2 2256-184.gif 1312-200.gif
+less 999 98 2880-200.gif 1232-200.gif
+tolerance 98 2 2096-184.gif 1232-200.gif
+less 999 18 32-216.gif 224-216.gif
+tolerance 18 17 2992-184.gif 224-216.gif
+less 999 15 224-184.gif 272-184.gif
+tolerance 15 1 2992-184.gif 272-184.gif
+less 999 49 464-120.gif 464-56.gif
+tolerance 49 6 2992-184.gif 464-56.gif
+less 999 57 1216-168.gif 592-152.gif
+tolerance 57 11 2416-184.gif 592-152.gif
+less 999 4 1216-168.gif 2208-168.gif
+tolerance 4 11 2704-152.gif 2208-168.gif
+less 999 77 2880-200.gif 2208-200.gif
+tolerance 77 2 2704-152.gif 2208-200.gif
+less 999 13 32-216.gif 336-216.gif
+tolerance 13 17 1424-152.gif 336-216.gif
+less 999 14 32-216.gif 416-216.gif
+tolerance 14 17 2240-184.gif 416-216.gif
+less 999 61 2880-200.gif 1040-200.gif
+tolerance 61 2 1408-184.gif 1040-200.gif
+less 999 24 1216-168.gif 960-72.gif
+tolerance 24 11 1408-184.gif 960-72.gif
+less 999 66 464-120.gif 464-136.gif
+tolerance 66 6 0-24.gif 464-136.gif
+less 999 83 2880-200.gif 2752-200.gif
+tolerance 83 2 0-24.gif 2752-200.gif
+less 999 11 32-216.gif 240-216.gif
+tolerance 11 17 544-184.gif 240-216.gif
+less 999 60 1216-168.gif 0-8.gif
+tolerance 60 11 2016-88.gif 0-8.gif
+less 999 57 2880-200.gif 1920-200.gif
+tolerance 57 2 2016-88.gif 1920-200.gif
+less 999 18 224-200.gif 112-200.gif
+tolerance 18 8 688-184.gif 112-200.gif
+less 999 13 1408-184.gif 1104-184.gif
+tolerance 13 38 304-56.gif 1104-184.gif
+less 999 46 224-200.gif 400-200.gif
+tolerance 46 8 1136-184.gif 400-200.gif
+less 999 13 32-216.gif 272-216.gif
+tolerance 13 17 1136-184.gif 272-216.gif
+less 999 83 2880-200.gif 2576-200.gif
+tolerance 83 2 2720-168.gif 2576-200.gif
+less 999 77 2880-200.gif 1008-200.gif
+tolerance 77 2 2720-168.gif 1008-200.gif
+less 999 18 2880-200.gif 1904-200.gif
+tolerance 18 2 2720-168.gif 1904-200.gif
+less 999 10 32-216.gif 288-216.gif
+tolerance 10 17 3344-184.gif 288-216.gif
+less 999 26 224-200.gif 96-200.gif
+tolerance 26 8 3344-184.gif 96-200.gif
+less 999 9 32-216.gif 64-216.gif
+tolerance 9 17 3344-184.gif 64-216.gif
+less 999 66 2880-200.gif 1696-200.gif
+tolerance 66 2 3344-184.gif 1696-200.gif
+less 999 25 0-24.gif 192-168.gif
+tolerance 25 43 3344-184.gif 192-168.gif
+less 999 77 2880-200.gif 2720-200.gif
+tolerance 77 2 2592-184.gif 2720-200.gif
+less 999 8 48-152.gif 16-152.gif
+tolerance 8 13 496-152.gif 16-152.gif
+less 999 6 64-152.gif 16-120.gif
+tolerance 6 18 64-200.gif 16-120.gif
+less 999 15 496-152.gif 544-152.gif
+tolerance 15 59 64-200.gif 544-152.gif
+less 999 83 2880-200.gif 688-200.gif
+tolerance 83 2 64-200.gif 688-200.gif
+less 999 30 464-120.gif 592-184.gif
+tolerance 30 6 64-200.gif 592-184.gif
+less 999 41 224-200.gif 240-200.gif
+tolerance 41 8 416-200.gif 240-200.gif
+less 999 20 32-216.gif 192-216.gif
+tolerance 20 17 160-8.gif 192-216.gif
+less 999 45 1216-168.gif 1008-104.gif
+tolerance 45 11 160-8.gif 1008-104.gif
+less 999 97 1216-168.gif 1680-184.gif
+tolerance 97 11 48-184.gif 1680-184.gif
+less 999 42 544-184.gif 496-184.gif
+tolerance 42 44 48-184.gif 496-184.gif
+less 999 77 2880-200.gif 2704-200.gif
+tolerance 77 2 48-184.gif 2704-200.gif
+less 999 66 496-200.gif 512-200.gif
+less 66 56 560-200.gif 512-200.gif
+tolerance 56 10 48-184.gif 512-200.gif
+less 999 69 2880-200.gif 2624-200.gif
+tolerance 69 2 2752-184.gif 2624-200.gif
+less 999 3 304-56.gif 32-56.gif
+tolerance 3 49 1232-136.gif 32-56.gif
+less 999 9 48-184.gif 3408-168.gif
+tolerance 9 65 2272-184.gif 3408-168.gif
+less 999 77 2880-200.gif 1104-200.gif
+tolerance 77 2 2208-184.gif 1104-200.gif
+less 999 69 2880-200.gif 2256-200.gif
+tolerance 69 2 2208-184.gif 2256-200.gif
+less 999 38 224-200.gif 320-200.gif
+tolerance 38 8 2208-184.gif 320-200.gif
+less 999 26 224-200.gif 160-200.gif
+tolerance 26 8 2880-184.gif 160-200.gif
+less 999 1 0-24.gif 0-72.gif
+tolerance 1 43 2880-184.gif 0-72.gif
+less 999 7 3440-152.gif 3456-152.gif
+tolerance 7 7 2880-184.gif 3456-152.gif
+less 999 90 2880-200.gif 2240-200.gif
+tolerance 90 2 2720-152.gif 2240-200.gif
+less 999 10 32-216.gif 16-216.gif
+tolerance 10 17 3424-136.gif 16-216.gif
+less 999 74 2208-184.gif 2368-184.gif
+tolerance 74 70 3424-136.gif 2368-184.gif
+less 999 20 224-200.gif 448-200.gif
+tolerance 20 8 3424-136.gif 448-200.gif
+less 999 10 0-24.gif 112-104.gif
+tolerance 10 43 1232-184.gif 112-104.gif
+less 999 85 704-184.gif 2384-184.gif
+tolerance 85 31 672-184.gif 2384-184.gif
+less 999 18 368-168.gif 384-168.gif
+tolerance 18 27 672-184.gif 384-168.gif
+less 999 19 0-56.gif 288-56.gif
+tolerance 19 52 2704-168.gif 288-56.gif
+less 999 75 160-0.gif 176-0.gif
+tolerance 75 4 2640-184.gif 176-0.gif
+less 999 20 2208-184.gif 1216-184.gif
+tolerance 20 70 1040-184.gif 1216-184.gif
+less 999 18 2880-200.gif 3008-200.gif
+tolerance 18 2 1072-56.gif 3008-200.gif
+less 999 6 2880-200.gif 1888-200.gif
+tolerance 6 2 1104-152.gif 1888-200.gif
+less 999 3 0-24.gif 0-104.gif
+tolerance 3 43 1104-152.gif 0-104.gif
+less 999 21 0-24.gif 112-72.gif
+tolerance 21 43 1104-152.gif 112-72.gif
+less 999 49 1216-168.gif 16-8.gif
+tolerance 49 11 1104-152.gif 16-8.gif
+less 999 48 0-24.gif 432-184.gif
+tolerance 48 43 1056-56.gif 432-184.gif
+less 999 42 464-120.gif 464-72.gif
+tolerance 42 6 1056-56.gif 464-72.gif
+less 999 78 2880-200.gif 2592-200.gif
+tolerance 78 2 1056-56.gif 2592-200.gif
+less 999 98 2880-200.gif 2384-200.gif
+tolerance 98 2 704-168.gif 2384-200.gif
+less 999 15 576-120.gif 448-184.gif
+tolerance 15 37 1168-184.gif 448-184.gif
+less 999 21 0-56.gif 432-40.gif
+tolerance 21 52 1168-184.gif 432-40.gif
+less 999 7 112-24.gif 32-24.gif
+tolerance 7 16 1168-184.gif 32-24.gif
+less 999 75 1216-168.gif 448-152.gif
+tolerance 75 11 1168-184.gif 448-152.gif
+less 999 51 2880-200.gif 1872-200.gif
+tolerance 51 2 1168-184.gif 1872-200.gif
+less 999 51 2880-200.gif 2976-200.gif
+tolerance 51 2 2720-136.gif 2976-200.gif
+less 999 39 400-0.gif 0-0.gif
+tolerance 39 77 2720-136.gif 0-0.gif
+less 999 48 1216-168.gif 464-152.gif
+tolerance 48 11 144-8.gif 464-152.gif
+less 999 98 3024-184.gif 2976-184.gif
+tolerance 98 53 144-8.gif 2976-184.gif
+less 999 6 48-152.gif 32-152.gif
+tolerance 6 13 1008-184.gif 32-152.gif
+less 999 26 2320-216.gif 1008-216.gif
+tolerance 26 75 1008-184.gif 1008-216.gif
+less 999 75 2272-168.gif 2608-168.gif
+tolerance 75 54 1008-184.gif 2608-168.gif
+less 999 98 64-200.gif 2320-200.gif
+tolerance 98 61 1008-184.gif 2320-200.gif
+less 999 15 32-216.gif 304-216.gif
+tolerance 15 17 2768-184.gif 304-216.gif
+less 999 39 0-24.gif 576-168.gif
+tolerance 39 43 1696-184.gif 576-168.gif
+less 999 67 1216-168.gif 1424-120.gif
+tolerance 67 11 560-184.gif 1424-120.gif
+less 999 65 0-24.gif 576-184.gif
+tolerance 65 43 1120-184.gif 576-184.gif
+less 999 13 112-24.gif 16-24.gif
+tolerance 13 16 3344-40.gif 16-24.gif
+less 999 27 224-200.gif 176-200.gif
+tolerance 27 8 48-136.gif 176-200.gif
+less 999 3 2880-200.gif 1120-200.gif
+tolerance 3 2 48-136.gif 1120-200.gif
+less 999 56 224-200.gif 192-200.gif
+tolerance 56 8 32-40.gif 192-200.gif
+less 999 77 2880-200.gif 1616-200.gif
+tolerance 77 2 32-40.gif 1616-200.gif
+less 999 39 0-24.gif 64-120.gif
+tolerance 39 43 32-40.gif 64-120.gif
+less 999 14 48-168.gif 16-168.gif
+tolerance 14 12 32-40.gif 16-168.gif
+less 999 33 400-0.gif 464-0.gif
+tolerance 33 77 32-40.gif 464-0.gif
+less 999 48 2880-200.gif 2864-200.gif
+tolerance 48 2 32-40.gif 2864-200.gif
+less 999 64 2880-200.gif 1136-200.gif
+tolerance 64 2 32-40.gif 1136-200.gif
+less 999 8 48-168.gif 16-184.gif
+tolerance 8 12 32-40.gif 16-184.gif
+less 999 98 64-200.gif 1344-200.gif
+tolerance 98 61 3344-24.gif 1344-200.gif
+less 999 19 464-120.gif 464-88.gif
+tolerance 19 6 320-40.gif 464-88.gif
+less 999 6 224-200.gif 352-200.gif
+tolerance 6 8 320-40.gif 352-200.gif
+less 999 20 64-152.gif 48-120.gif
+tolerance 20 18 320-40.gif 48-120.gif
+less 999 30 1216-168.gif 2816-184.gif
+tolerance 30 11 320-40.gif 2816-184.gif
+less 999 63 0-24.gif 80-152.gif
+tolerance 63 43 320-40.gif 80-152.gif
+less 999 12 48-168.gif 0-168.gif
+tolerance 12 12 320-40.gif 0-168.gif
+less 999 84 2880-200.gif 2368-200.gif
+tolerance 84 2 320-40.gif 2368-200.gif
+less 999 43 208-184.gif 336-184.gif
+tolerance 43 98 544-168.gif 336-184.gif
+less 999 37 400-0.gif 192-0.gif
+tolerance 37 77 544-168.gif 192-0.gif
+less 999 12 32-216.gif 400-216.gif
+tolerance 12 17 544-168.gif 400-216.gif
+less 999 70 2880-200.gif 1216-200.gif
+tolerance 70 2 2624-184.gif 1216-200.gif
+less 999 97 496-152.gif 560-152.gif
+tolerance 97 59 192-184.gif 560-152.gif
+less 999 2 3344-184.gif 3088-184.gif
+tolerance 2 57 32-168.gif 3088-184.gif
+less 999 39 0-40.gif 288-40.gif
+tolerance 39 33 32-168.gif 288-40.gif
+less 999 8 32-40.gif 448-24.gif
+tolerance 8 99 32-168.gif 448-24.gif
+less 999 6 496-152.gif 512-152.gif
+tolerance 6 59 32-168.gif 512-152.gif
+less 999 28 0-24.gif 128-152.gif
+tolerance 28 43 32-168.gif 128-152.gif
+less 999 66 2256-168.gif 2704-120.gif
+tolerance 66 41 32-168.gif 2704-120.gif
+less 999 59 2320-216.gif 464-216.gif
+tolerance 59 75 960-88.gif 464-216.gif
+less 999 22 224-200.gif 432-200.gif
+tolerance 22 8 960-88.gif 432-200.gif
+less 999 68 2880-200.gif 1840-200.gif
+tolerance 68 2 336-168.gif 1840-200.gif
+less 999 98 1936-184.gif 1888-184.gif
+tolerance 98 85 1904-184.gif 1888-184.gif
+less 999 7 464-120.gif 464-104.gif
+tolerance 7 6 384-184.gif 464-104.gif
+less 999 27 544-168.gif 496-168.gif
+tolerance 27 104 384-184.gif 496-168.gif
+less 999 78 1024-168.gif 2592-168.gif
+less 78 75 2256-168.gif 2592-168.gif
+tolerance 75 41 384-184.gif 2592-168.gif
+less 999 1 304-56.gif 448-40.gif
+tolerance 1 49 384-184.gif 448-40.gif
+less 999 24 32-216.gif 96-216.gif
+tolerance 24 17 384-184.gif 96-216.gif
+less 999 98 64-200.gif 2224-200.gif
+tolerance 98 61 1920-184.gif 2224-200.gif
+less 999 10 32-216.gif 128-216.gif
+tolerance 10 17 1920-184.gif 128-216.gif
+less 999 92 64-200.gif 2608-200.gif
+tolerance 92 61 1920-184.gif 2608-200.gif
+less 999 3 3344-184.gif 1200-168.gif
+tolerance 3 57 1920-184.gif 1200-168.gif
+less 999 13 224-200.gif 288-200.gif
+tolerance 13 8 1920-184.gif 288-200.gif
+less 999 23 1216-168.gif 2368-168.gif
+tolerance 23 11 3328-40.gif 2368-168.gif
+less 999 22 224-200.gif 336-200.gif
+tolerance 22 8 3328-40.gif 336-200.gif
+less 999 9 64-152.gif 32-120.gif
+tolerance 9 18 3328-40.gif 32-120.gif
+less 999 61 2880-200.gif 2400-200.gif
+tolerance 61 2 3328-40.gif 2400-200.gif
+less 999 45 0-40.gif 432-24.gif
+tolerance 45 33 3328-40.gif 432-24.gif
+less 999 14 1104-168.gif 688-168.gif
+tolerance 14 89 560-168.gif 688-168.gif
+less 999 45 1216-168.gif 2112-184.gif
+tolerance 45 11 3408-152.gif 2112-184.gif
+less 999 77 2880-200.gif 592-200.gif
+tolerance 77 2 2224-168.gif 592-200.gif
+less 999 5 32-216.gif 176-216.gif
+tolerance 5 17 2848-184.gif 176-216.gif
+less 999 19 64-152.gif 0-152.gif
+tolerance 19 18 2848-184.gif 0-152.gif
+less 999 92 64-200.gif 2272-200.gif
+tolerance 92 61 2848-184.gif 2272-200.gif
+less 999 74 576-120.gif 32-184.gif
+tolerance 74 37 64-184.gif 32-184.gif
+less 999 30 224-200.gif 0-200.gif
+tolerance 30 8 64-184.gif 0-200.gif
+less 999 28 496-200.gif 544-200.gif
+tolerance 28 5 64-184.gif 544-200.gif
+less 999 35 224-200.gif 272-200.gif
+tolerance 35 8 64-184.gif 272-200.gif
+less 999 4 336-168.gif 208-168.gif
+tolerance 4 109 2864-184.gif 208-168.gif
+less 999 11 224-200.gif 80-200.gif
+tolerance 11 8 528-184.gif 80-200.gif
+less 999 3 208-152.gif 336-152.gif
+tolerance 3 9 528-184.gif 336-152.gif
+less 999 9 320-40.gif 48-40.gif
+tolerance 9 102 528-184.gif 48-40.gif
+less 999 2 32-40.gif 304-40.gif
+tolerance 2 99 512-184.gif 304-40.gif
+less 999 46 3344-184.gif 2016-168.gif
+tolerance 46 57 512-184.gif 2016-168.gif
+less 999 24 400-0.gif 208-0.gif
+tolerance 24 77 512-184.gif 208-0.gif
+less 999 22 224-184.gif 256-184.gif
+tolerance 22 1 512-184.gif 256-184.gif
+less 999 24 704-168.gif 1232-168.gif
+tolerance 24 84 512-184.gif 1232-168.gif
+less 999 18 224-200.gif 144-200.gif
+tolerance 18 8 512-184.gif 144-200.gif
+less 999 30 224-200.gif 208-200.gif
+tolerance 30 8 512-184.gif 208-200.gif
+less 999 4 2880-200.gif 1168-200.gif
+tolerance 4 2 512-184.gif 1168-200.gif
+less 999 22 704-168.gif 1696-168.gif
+tolerance 22 84 512-184.gif 1696-168.gif
+less 999 7 48-56.gif 320-56.gif
+tolerance 7 0 512-184.gif 320-56.gif
+less 999 49 0-24.gif 80-168.gif
+tolerance 49 43 512-184.gif 80-168.gif
+less 999 7 48-168.gif 64-168.gif
+tolerance 7 12 512-184.gif 64-168.gif
+less 999 48 2880-200.gif 1152-200.gif
+tolerance 48 2 512-184.gif 1152-200.gif
+less 999 98 1936-184.gif 3040-184.gif
+tolerance 98 85 512-184.gif 3040-184.gif
+less 999 10 48-168.gif 32-136.gif
+tolerance 10 12 512-184.gif 32-136.gif
+less 999 3 304-56.gif 16-56.gif
+tolerance 3 49 464-200.gif 16-56.gif
+less 999 1 1072-56.gif 1280-56.gif
+tolerance 1 81 1088-40.gif 1280-56.gif
+less 999 1 1008-184.gif 1376-184.gif
+12330 1088-40.gif 1376-184.gif
+tolerance 1 91 1088-40.gif 1376-184.gif
+less 999 98 2320-216.gif 2368-216.gif
+tolerance 98 75 1088-40.gif 2368-216.gif
+less 999 61 2880-200.gif 1824-200.gif
+tolerance 61 2 1088-40.gif 1824-200.gif
+less 999 10 704-168.gif 2384-168.gif
+tolerance 10 84 1088-40.gif 2384-168.gif
+less 999 14 32-216.gif 160-216.gif
+tolerance 14 17 1872-184.gif 160-216.gif
+less 999 28 224-200.gif 304-200.gif
+tolerance 28 8 1424-136.gif 304-200.gif
+less 999 67 496-200.gif 528-200.gif
+tolerance 67 5 1424-136.gif 528-200.gif
+less 999 23 416-200.gif 368-200.gif
+tolerance 23 62 1424-136.gif 368-200.gif
+less 999 77 2880-200.gif 576-200.gif
+tolerance 77 2 1424-136.gif 576-200.gif
+less 999 98 2880-200.gif 2096-200.gif
+tolerance 98 2 1424-136.gif 2096-200.gif
+less 999 21 224-184.gif 240-184.gif
+tolerance 21 1 1424-136.gif 240-184.gif
+less 999 3 112-24.gif 144-24.gif
+tolerance 3 16 1424-136.gif 144-24.gif
+less 999 4 112-24.gif 128-24.gif
+tolerance 4 16 1424-136.gif 128-24.gif
+less 999 1 32-40.gif 16-40.gif
+tolerance 1 99 1424-136.gif 16-40.gif
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+draw
+None

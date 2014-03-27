@@ -1,0 +1,96 @@
+@import url('../other_source/mario-moves.css');
+*{
+  -webkit-backface-visibility: hidden;
+}
+.wrapper{
+  background-color: #6b8cff;
+  overflow: hidden;
+  position: relative;
+}
+.camera{
+  height: 224px;
+  width: 512px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.block{
+  position:absolute;
+}
+.block:hover{
+  /*outline: 3px solid red;*/
+  z-index: 9;
+}
+.player{
+  outline: 1px solid yellow;
+  top        : 0;
+  left       : 0;
+  height     : 16px;
+  width      : 16px;  
+  
+  left       : 1232px;
+}
+
+
+p .info{
+  width: 60em;
+  height: 30px;
+  line-height: 30px;
+  font-size: 24px;
+}
+p span{
+  width: 6em;
+  display: inline-block;
+}
+
+.i180230427271b73d72f05d66_chips_0-200,
+.i180230427271b73d72f05d66_chips_256-136,
+.i180230427271b73d72f05d66_chips_320-136,
+.i180230427271b73d72f05d66_chips_336-136,
+.i180230427271b73d72f05d66_chips_448-168,
+.i180230427271b73d72f05d66_chips_464-168,
+.i180230427271b73d72f05d66_chips_448-184,
+.i180230427271b73d72f05d66_chips_464-184,
+.i180230427271b73d72f05d66_chips_336-136,
+.i180230427271b73d72f05d66_chips_1504-136,
+.i180230427271b73d72f05d66_chips_1616-136,
+.i180230427271b73d72f05d66_chips_2144-184,
+.i180230427271b73d72f05d66_chips_3392-24,
+.i180230427271b73d72f05d66_chips_3392-24,
+.i180230427271b73d72f05d66_chips_3600-168,
+.i180230427271b73d72f05d66_chips_3600-184,
+.i180230427271b73d72f05d66_chips_3616-184,
+.i180230427271b73d72f05d66_chips_3616-168,
+.i180230427271b73d72f05d66_chips_3632-184,
+.i180230427271b73d72f05d66_chips_3632-168,
+.i180230427271b73d72f05d66_chips_3632-24,
+.i180230427271b73d72f05d66_chips_3392-200,
+.i180230427271b73d72f05d66_chips_1024-120{
+  /*outline:2px solid yellow;*/
+  z-index:1;
+}
+.d_block{
+  background: url('../180230427271b73d72f05d66/chips/d_block.gif');
+}
+.mushroom{
+  background: url("../180230427271b73d72f05d66/chips/1024-120.gif");
+  height: 16px;
+  width: 16px;
+}
+.star{
+  background: url("../180230427271b73d72f05d66/chips/1024-120.gif");
+  height: 16px;
+  width: 16px;
+}
+
+.coin{
+  background: url('../180230427271b73d72f05d66/chips/coin.png');
+  height: 16px;
+  width: 16px;
+}
+.logger_panel{
+  position : fixed;
+  top      : 400px;
+  right    : 20px;
+  bottom   : 0px;
+  overflow: auto;
+}

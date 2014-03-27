@@ -1,0 +1,7 @@
+define([
+  './messager'
+],function(
+  messager
+){
+  
+});
