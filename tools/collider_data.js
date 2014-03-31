@@ -1,7 +1,9 @@
 define([
-  './collider_util'
+  './collider_util',
+  'es5-shim'
 ],function(
-  collider_util
+  collider_util,
+  shim
 ){
   function cJson () {
     return {
