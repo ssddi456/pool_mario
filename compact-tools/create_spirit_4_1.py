@@ -20,8 +20,8 @@ mkdir_p( out_folder )
 chips_folder = base_name + '/chips/'
 spirit_opimizer = {
                     'custom_headers' : {
-                       "css" : ('../../tools/bg.css',),
-                       "js"  : ('../../tools/map_util.js',),
+                       "css" : ('../../imps/bg.css',),
+                       "js"  : ('../../imps/map_util.js',),
                     },
                     "exclude":(
                       chips_folder + "0-8"      + '.gif',

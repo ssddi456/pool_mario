@@ -17,8 +17,8 @@ out_folder = '180230427271b73d72f05d66/output'
 mkdir_p( out_folder )
 spirit_opimizer = {
                     'custom_headers' : {
-                       "css" : ('../../tools/bg.css',),
-                       "js"  : ('../../tools/map_util.js',),
+                       "css" : ('../../imps/bg.css',),
+                       "js"  : ('../../imps/map_util.js',),
                     },
                     'exclude'    : (
                       '180230427271b73d72f05d66/chips/0-0.gif',
