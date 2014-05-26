@@ -40,7 +40,8 @@ load_scripts([
   require.config({
     baseUrl : '../../tools',
     paths : {
-      jquery : 'http://cdn.staticfile.org/jquery/2.0.3/jquery'
+      jquery : 'http://cdn.staticfile.org/jquery/2.0.3/jquery',
+      'es5-shim' : 'http://cdn.staticfile.org/es5-shim/2.3.0/es5-shim'
     },
     deps : [/*'click_to_parse_name',*/'shadow_walker']
   });
