@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# demo code
+demo_code/chips/*
+demo_code/piecemap.json
+demo_code/logs
+demo_code/html.html
+demo_code/css.css

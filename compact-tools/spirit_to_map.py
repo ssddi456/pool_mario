@@ -114,6 +114,8 @@ def spirit_map_to_html ( chips, spirit_map, out_folder, optimizer ) :
       css_f.write(
         '.' + css_class + '{'
           + 'background-image:url("../../'+spirit+'");'
+          + 'top:' + str(pos[1]) + 'px;'
+          + 'left:'+ str(pos[0]) + 'px;'
           + 'width:'  + str(poses[0][2] - poses[0][0]) + 'px;'
           + 'height:' + str(poses[0][3] - poses[0][1]) + 'px;'
           + '}\n')
@@ -122,13 +124,7 @@ def spirit_map_to_html ( chips, spirit_map, out_folder, optimizer ) :
         poses = compact_poses( poses )
 
       for pos in poses :
-        html_f.write(
-          '<div class="block '+ css_class + '" '
-              +'style="top:' + str(pos[1]) + 'px;'
-                    + 'left:'+ str(pos[0]) + 'px;'
-                    + 'height:'+ str(pos[3] - pos[1]) + 'px;'
-                    + 'width:' + str(pos[2] - pos[0]) + 'px;'
-                    + '"></div>')
+        html_f.write('<div class="block '+ css_class + '" ></div>')
 
   html_f.write('</div></div>')
 
